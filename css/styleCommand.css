@@ -1,0 +1,18 @@
+body {
+    overflow: hidden;
+    background-color: #101010;
+}
+
+.center {
+    text-align: center;
+}
+
+#touchCanvas {
+    position: relative;
+}
+
+#droneInstruments {
+    position: absolute;
+    left: 0;
+    right: 0;
+}

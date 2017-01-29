@@ -1,0 +1,7 @@
+body {
+    overflow: hidden;
+}
+
+#joystickCanvas {
+    border: 1px solid grey;
+}
